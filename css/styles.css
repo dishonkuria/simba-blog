@@ -2,6 +2,9 @@
   background-color: skyblue;
 }
 
-.grey-background {
-  background-color:grey;
+.dark-background {
+  background-color: dark;
+}
+.light-background {
+  background-color:light;
 }
